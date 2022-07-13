@@ -1,0 +1,1 @@
+Simon game is a popular game to remember the patterns and get their sequence right. I have developed this Simon Game using HTML, CSS and JavaScript along with jQuery. I developed this project as a part of an online Web Development course and in this section I have tried implementing my knowledge on the fundamentals of jQuery.  
